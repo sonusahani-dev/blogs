@@ -1,5 +1,5 @@
 ⚡ Optimizing React App Performance
-📅 November 28, 2024
+📅 July 2, 2025
 
 Performance is critical for user experience. Here are key strategies to keep your React apps fast and responsive:
 
