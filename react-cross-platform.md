@@ -1,5 +1,5 @@
 🌐 Building Scalable Web Apps with Next.js and TypeScript
-📅 November 10, 2023
+📅 July 02, 2025
 
 Next.js with TypeScript is a powerful combo for creating robust web apps with built-in performance and developer productivity.
 
