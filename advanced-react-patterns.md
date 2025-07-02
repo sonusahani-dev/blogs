@@ -1,5 +1,5 @@
 🧠 Advanced React Patterns You Should Know
-📅 December 15, 2024,
+📅 July 02, 2025
 
 React has matured over the years, and modern applications often demand more than just components and hooks. Let’s explore a few advanced patterns that will help you build scalable, maintainable React applications.
 
